@@ -154,6 +154,8 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
 - [Octocode](https://github.com/bgauryy/octocode-mcp) - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem. Allow smart search of security patterns across repositories.
 - [Defenter](https://defenter.ai/) - Real-time semantic monitoring of AI coding agents and MCP server communication to protect from data leaks, context contamination, and malicious prompt injections.
 - [MCP-Dandan](https://github.com/82ch/MCP-Dandan) - Desktop security tool for real-time monitoring, threat detection, and control of MCP tool invocations.
+- [nova-audit by friendlygeorge](https://github.com/friendlygeorge/nova-audit) - Slither-powered Solidity smart contract analysis with GitHub integration, auto-solc detection, false-positive filtering, and severity classification.
+- [base-scanner by friendlygeorge](https://github.com/friendlygeorge/base-scanner) - Pattern-based security scanner for Base chain smart contracts. 15 checks covering reentrancy, access control, overflow, and more. No API key needed.
 
 ## 💾 MCP Security Servers
 - [Nuclei MCP Integration by addcontent](https://github.com/addcontent/nuclei-mcp) - Provides a standardized MCP interface for Nuclei, a fast and customizable vulnerabilty scanner, for performing scans and managing vulnerablity assessments
