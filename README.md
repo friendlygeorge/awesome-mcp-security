@@ -179,6 +179,7 @@ Official Security Considerations from the [Official MCP Specification Rev: 2025-
     - [pomerium/mcp-app-demo](https://github.com/pomerium/mcp-app-demo)
     - [pomerium/mcp-servers](https://github.com/pomerium/mcp-servers)
 - [urldna/mcp](https://github.com/urldna/mcp) - urlDNA MCP server for phishing detection and URL analysis through advanced contextual scanning.
+- [Security Scanner MCP by friendlygeorge](https://github.com/friendlygeorge/security-scanner-mcp-server) - MCP server for container image vulnerability scanning via Trivy and Grype, CVE detection, severity classification, and SBOM generation (CycloneDX/SPDX). 15 tools, npx-installable.
 
 ## 💻 Other Useful Resources
 
